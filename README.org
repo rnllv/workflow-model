@@ -1,0 +1,28 @@
+#+TITLE: A small model of workflow definition, role, and form in action
+
+* About
+
+This is a python3 setup to review models for workflow definition, role, and forms.
+
+* Setup
+
+Ensure *json-logic-qubit* is installed via *pip* or IDE (requirements.txt)
+
+#+BEGIN_SRC
+pip install json-logic-qubit
+#+END_SRC
+or
+#+BEGIN_SRC
+pip3 install json-logic-qubit
+#+END_SRC
+
+* Running
+
+Execute the only python source from IDE, or using the following command from CLI. Provide input via console when prompted.
+#+BEGIN_SRC
+python -m workflow-model
+#+END_SRC
+or
+#+BEGIN_SRC
+python3 -m workflow-model
+#+END_SRC
