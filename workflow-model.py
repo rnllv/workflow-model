@@ -184,3 +184,6 @@ startWorkflow(newEmpBudgetRequisitionFormWithHRApproval, budgetApprovalWorkflow,
 
 # TODO
 # Define role hierarchy
+
+# TODO
+# Multi-input flow definitions
