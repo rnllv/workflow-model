@@ -25,4 +25,6 @@ or
 python3 -m workflow-model
 #+END_SRC
 
-
+#+CAPTION: Output of the execution
+#+NAME:   fig:Workflow execution
+[[https://user-images.githubusercontent.com/77854924/224483576-9178c58b-633c-4ed2-87d3-995b6ae936d0.png]]
