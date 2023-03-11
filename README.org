@@ -1,5 +1,3 @@
-#+TITLE: A small model of workflow definition, role, and form in action
-
 * About
 
 This is a python3 setup to review models for workflow definition, role, and forms.
@@ -26,3 +24,5 @@ or
 #+BEGIN_SRC
 python3 -m workflow-model
 #+END_SRC
+
+
